@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body,html{
+  height: 100%;
+  width: 100%;
+
+}
+
+.nav{
+  width: 100%;
+  background-color: green;
+  padding: 20px;
+}
+.section{
+  height: 90vh;
+  width: 100%;
+  background-color: skyblue;
+  padding-top: 100px;
+}
+
+.center{
+  width: 50%;
+  margin: 0 auto;
+  background-color: pink;
+  height: 40%;
+  text-align: center;
+}
